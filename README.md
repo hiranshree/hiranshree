@@ -1,4 +1,4 @@
-[![MasterHead](https://in.pinterest.com/pin/684547212136750558/))](https://hiranshree.in)
+[![MasterHead](https://in.pinterest.com/pin/684547212136750558/)]
 <h1 align="center">Hi 👋, I'm HIRANMAYI</h1>
 - 🔭 I’m currently working on **Developing my knowledge in coding**
 
