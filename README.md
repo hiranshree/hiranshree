@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HIRANMAYI</h1>
-- 🔭 I’m currently working on **Developing my knowledge in coding**
+- 🔭 I’m currently working on Developing my knowledge in coding
 
 - 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
 
