@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="[https://in.pinterest.com/pin/745908757039407889/]" width="600" height="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm HIRANMAYI</h1>
 - 🔭 I’m currently working on <strong>Developing my knowledge in coding</strong>
 
