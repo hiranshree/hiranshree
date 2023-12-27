@@ -2,6 +2,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 500 length = 600>
 </div>
 <h1 align="center">Hi 👋, I'm HIRANMAYI</h1>
+<h3 align="center">while(alive){</h3>
+<h3 align="center">eat();</h3>
+<h3 align="center">sleep();</h3>
+<h3 align="center">code();</h3>
+<h3 align="center">repeat();</h3>
+<h3 align="center">}</h3>
+<div align = right>
+  <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width = 500 length = 600>
+</div>
 - 🔭 I’m currently working on <strong>Developing my knowledge in coding</strong>
 
 - 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
