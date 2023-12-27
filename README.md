@@ -6,15 +6,15 @@
 <div align = right>
   <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width = 400 length = 500>
 </div>
-- 🔭 I’m currently working on <strong>Data Visualization</strong>
+- 🔭 I’m currently working on <strong>Data Visualization.</strong>
 
-- 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
+- 🌱 I’m currently learning **Machine Learning and Ethical Hacking.**
 
-- 👯 I’m looking to collaborate on **Robotics, Machine Learning, Cyber Security, Data Science, Arduino, STM 32, Raspberry Pi projects**
+- 👯 I’m looking to collaborate on **Robotics, Machine Learning, Cyber Security, Data Science, Arduino, STM 32, Raspberry Pi projects.**
 
-- 🤝 I’m looking for help with **Raspberry Pi projects**
+- 🤝 I’m looking for help with **Raspberry Pi projects.**
 
-- 💬 Ask me about **Cyber Security and ROS Melodic**
+- 💬 Ask me about **Cyber Security and ROS Melodic.**
 
 - 📫 How to reach me **prittu9@gmail.com**
 
