@@ -6,7 +6,7 @@
 <div align = right>
   <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width = 400 length = 500>
 </div>
-- 🔭 I’m currently working on <strong>Developing my knowledge in coding</strong>
+- 🔭 I’m currently working on <strong>Data Visualization</strong>
 
 - 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
 
