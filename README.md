@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm HIRANMAYI</h1>
 <h3 align="center">Brevity is the soul of wit...</h3>
 <div align = right>
-  <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width = 500 length = 600>
+  <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width = 400 length = 500>
 </div>
 - 🔭 I’m currently working on <strong>Developing my knowledge in coding</strong>
 
